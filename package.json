@@ -1,0 +1,22 @@
+{
+  "name": "redux-only",
+  "version": "1.0.0",
+  "description": "redux training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./redux-only/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "redux-only"
+  },
+  "keywords": [
+    "redux-only"
+  ],
+  "author": "jazzy",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
